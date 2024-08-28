@@ -1,0 +1,203 @@
+.violet-box1 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+}
+.violet-box2 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+.violet-box3 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.violet-box4 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    justify-content: space-between;
+    
+}
+.violet-box5 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+}
+.violet-box6 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    justify-content: end;
+}
+.violet-box7 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    justify-content: center;
+   
+}
+.violet-box8 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    justify-content: space-between;
+   
+}
+.violet-box9 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    
+   
+}
+.violet-box10 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+  
+  align-content: flex-end;
+    
+   
+}
+.violet-box11 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    
+   
+}
+.violet-box12 {
+    width: 300px;
+    height: 300px;
+    background-color: violet;
+    display: flex;
+    gap: 20px;
+    text-align:center ;
+    
+   
+}
+
+.all-box {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.smoll-box1 {
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px; border: 2px solid black;
+}
+.smoll-box2{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px; border: 2px solid black;
+    
+}
+.smoll-box3{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+    
+}
+.smoll-box4{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px; border: 2px solid black;
+    
+}
+.smoll-box5{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+}
+.smoll-box6{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+}
+.smoll-box7{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+
+}
+.smoll-box8{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+
+}
+.smoll-box9{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+  
+
+}.smoll-box10{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+align-content: flex-end;
+}.smoll-box11{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+
+}
+.smoll-box12{
+    background-color: #F7941F;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;  border: 2px solid black;
+
+}
+
+
+
